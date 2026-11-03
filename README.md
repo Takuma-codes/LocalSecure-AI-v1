@@ -39,5 +39,4 @@ LocalSecure-AI/
 ├── src/                        # 開発ソースコード
 │   ├── LocalSecureAiverfixed1_4.py # メインプログラム
 │   └── zundamon_warning.wav    # 警告音声ファイル
-├── README.md                   # 本ドキュメント
-└── LICENSE                     # ライセンス情報
+└── README.md                   # 本ドキュメント
