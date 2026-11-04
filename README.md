@@ -36,7 +36,8 @@
 
 ```text
 LocalSecure-AI/
-├── src/                        # 開発ソースコード
+├── dist/                       # 開発ソースコード
+├── src/                        # 発表ソースコード
 │   ├── LocalSecureAiverfixed1_4.py # メインプログラム
 │   └── zundamon_warning.wav    # 警告音声ファイル
 └── README.md                   # 本ドキュメント
